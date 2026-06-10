@@ -1,2 +1,17 @@
 # Data-Analytics-TS-ACADEMY
-Post MS.c. Professional learning journey at TS Academy. this was where I developed practical skills in data analytics and business intelligence through real-world projects.
+## Skills Gained
+
+- Data Cleaning & Preparation
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Insights & Reporting
+
+## Featured Projects
+
+- Data Cleaning Project
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+
+## What I Bring
+
+Through project-based learning, I have gained experience transforming raw data into actionable insights, communicating findings effectively, and solving data-driven problems.
