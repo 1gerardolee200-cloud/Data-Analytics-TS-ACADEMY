@@ -6,6 +6,13 @@
 - Data Visualization
 - Business Insights & Reporting
 
+## Tools Utilized
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+
 ## Featured Projects
 
 - Data Cleaning Project
